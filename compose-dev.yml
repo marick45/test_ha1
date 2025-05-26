@@ -1,9 +1,9 @@
 services:
   ha-fusion:
-    container_name: ha-fusion
+    container_name: ha-marick
     build: .
     volumes:
-      - ~/Developer/ha-fusion/data:/app/data
+      - ~/Developer/ha-marick/data:/app/data
     network_mode: bridge
     ports:
       - 5050:5050
