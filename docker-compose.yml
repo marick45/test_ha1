@@ -1,6 +1,6 @@
 services:
   ha-fusion:
-    container_name: ha-fusion
+    container_name: ha-marick
     image: ghcr.io/marick45/test_ha1
     volumes:
       - /path/to/ha-marick:/app/data
