@@ -1,9 +1,9 @@
 services:
   ha-fusion:
     container_name: ha-fusion
-    image: ghcr.io/matt8707/ha-fusion
+    image: ghcr.io/marick45/test_ha1
     volumes:
-      - /path/to/ha-fusion:/app/data
+      - /path/to/ha-marick:/app/data
     network_mode: bridge
     ports:
       - 5050:5050
