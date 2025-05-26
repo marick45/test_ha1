@@ -14,7 +14,7 @@
 	"devDependencies": {
 		"@event-calendar/core": "^3.6.1",
 		"@event-calendar/day-grid": "^3.6.1",
-		"@event-calendar/list": "^3.6.1",
+		"@event-calendar/list": "^3.12.0",
 		"@iconify/svelte": "^4.0.2",
 		"@sveltejs/adapter-node": "^5.2.6",
 		"@sveltejs/kit": "^2.6.4",
